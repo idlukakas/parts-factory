@@ -1,0 +1,15 @@
+5
+A 2
+B 3
+C 1
+D 6
+E 4
+F A 2
+F B 3
+G F 1
+G A 3
+G B 4
+H A 1
+H B 2
+H G 4
+H F 1
